@@ -1,5 +1,6 @@
 Analyse du Marché Immobilier - Dashboard Power BI
 📌 Présentation du Projet
+
 Ce projet consiste en la création d'une solution décisionnelle complète sous Power BI pour analyser les données du marché immobilier. L'objectif est d'extraire des insights pertinents sur la valorisation des biens, la répartition géographique et les tendances actuelles pour faciliter la prise de décision.
 
 📊 Contenu des Rapports
