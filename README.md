@@ -40,7 +40,7 @@ Power Query (M) : Nettoyage et transformation des données (ETL).
 DAX (Data Analysis Expressions) : Création de mesures calculées (Moyennes mobiles, KPIs, segmentation).
 
 🚀 Installation et Utilisation
-Cloner le dépôt : git clone https://github.com/votre-username/votre-repo.git
+Cloner le dépôt : [git clone https://github.com/votre-username/votre-repo.git](https://github.com/elarabilamiaa43-wq/AVITO_data_pipeline)
 
 Ouvrir le fichier .pbix avec Power BI Desktop.
 
